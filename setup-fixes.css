@@ -10,3 +10,4 @@
 .player-row.dark-team,.player-row.dark-team .turn-rank,.player-row.dark-team .team-member,.player-row.dark-team strong,.player-row.dark-team strong:last-child{color:#fff}.player-row.dark-team .row-misses{color:#fff}.player-row.dark-team.current{outline-color:#ffd43b}.player-row.dark-team.finished{color:#eef8ef}
 .team-box>input{flex:0 0 auto}.team-box>strong{flex:1}.team-box .random-team{position:absolute;right:12px;top:50%;transform:translateY(-50%);margin:0!important}.team-box:has(.random-team){padding-right:55px}
 .team-box>strong{position:absolute;left:50%;transform:translateX(-50%);width:max-content;text-align:center;pointer-events:none}
+.picker-title{display:flex;align-items:center;justify-content:space-between;gap:12px}.picker-title h1{margin:8px 0 0}.picker-title button{width:42px;height:42px;border:0;border-radius:13px;background:#fffdf6;color:#174b3a;font-size:21px;font-weight:900}
