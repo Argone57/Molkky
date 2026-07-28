@@ -19,3 +19,4 @@
 .team-hero-top,.team-hero-main{width:100%}.hero-current-score{min-width:54px;text-align:right;justify-content:flex-end}
 .team-hero.integrated-score{align-items:stretch}.team-hero-top>*:first-child,.team-hero-main>*:first-child{justify-self:start;text-align:left}.team-hero-top>*:last-child,.team-hero-main>*:last-child{justify-self:end;text-align:right}.hero-score-value{display:flex;align-items:baseline;gap:5px;white-space:nowrap}.hero-score-value b{font-size:38px;line-height:.95}.hero-score-value small{font-size:14px;font-weight:850}.hero-current-score>span{height:44px;display:flex;flex-direction:column;justify-content:space-evenly;align-items:center;line-height:10px}.hero-current-score>span i{display:block;font-style:normal}
 .history-line.pending strong{font-style:italic}.all-history>button b{font-size:21px;line-height:16px;width:22px;text-align:center}
+.history-line.current-waiting{border-left:4px solid #174b3a}
